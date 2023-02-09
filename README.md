@@ -1,10 +1,8 @@
-# Demo parse-server Auth
-
-## Run locally (This is from the moralis repo here https://github.com/MoralisWeb3/Moralis-JS-SDK/tree/main/demos/parse-server)
+# Parse Server with Moralis Web3Auth
 
 ## Notes
 
-- This code is built on a clone of Moralis's demo parse server repo
+- This code is built on a clone of Moralis's demo parse server repo here https://github.com/MoralisWeb3/Moralis-JS-SDK/tree/main/demos/parse-server
 
 ## Running the backend
 
