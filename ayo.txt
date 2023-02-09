@@ -1,4 +1,0 @@
-))) run backend: ~/ `npm run dev`
-
-- dev or something else for live ?
-
